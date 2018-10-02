@@ -1,8 +1,17 @@
 # Reporting Guidelines
 
-If you believe someone is violating the code of conduct we ask that you report it to [COMMUNITY_NAME] by emailing [YOUR CONTACT INFO HERE]. 
+[section on in-person at events, and what actions will be taken immediately after reporting]
 
-**All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
+If you believe someone is violating the code of conduct we ask that you report it immediately to the designated point of contact at the event.
+
+The following will happen immediately after you report a violation:
+ * You and the person violated will be taken to a safe, quite space on the premises.
+ * The person violated will be asked to decide what you want to happen next: do they want to leave the event, or do they want to stay?
+ * The perpetrator of the violation will be escorted away from the event.
+ * You will be supported in the decisions necessary around reprting the violation to the hosts, and potentially to other authorities. 
+ * When you choose to leave the event, you will be escorted to your home, with care taken so that the perpetrator and you do not cross paths.
+ 
+**All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all persons violated and reporters will remain confidential unless those individuals instruct us otherwise.
 
 If you believe anyone is in physical danger, please notify appropriate emergency services first. If you are unsure what service or agency is appropriate to contact, include this in your report and we will attempt to notify them.
 
@@ -43,11 +52,11 @@ We'll respond within one week to the person who filed the report with either a r
 
 Once we've determined our final action, we'll contact the original reporter to let them know what action (if any) we'll be taking. We'll take into account feedback from the reporter on the appropriateness of our response, but our response will be determined by what will be best for community safety.
 
-Finally, the response team will make a report on the situation to the Stumptown Syndicate board. The board may choose to issue a public report of the incident or take additional actions.
+Finally, the response team will make a report on the situation to the [COMMUNITY_NAME] organizers. The organizers may choose to issue a public report of the incident or take additional actions.
 
 ## Appealing the response
 
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the Stumptown Syndicate Board at board@stumptownsyndicate.org with your appeal and the Syndicate board will review the case.
+Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the [COMMUNITY_NAME] at [EMAIL] with your appeal and the community organizers will review the case.
 
 _Revision 1.0, DRAFT, proposed June 2014_
 _Reporting Guidelines derived from those of the [Django Software Foundation](https://www.djangoproject.com/conduct/reporting/)._
