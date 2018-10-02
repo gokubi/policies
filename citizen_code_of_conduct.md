@@ -1,5 +1,7 @@
 # Citizen Code of Conduct
 
+[COMMUNITY_NAME] is dedicated to providing a harassment and violence-free experiences for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of coommunity members in any form. Community members violating these rules may be sanctioned or expelled from an event and from the community at the discretion of community organizers.
+
 ## 1. Purpose
 
 A primary goal of [COMMUNITY_NAME] is to be inclusive to the largest number of members, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
