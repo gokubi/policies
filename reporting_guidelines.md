@@ -1,6 +1,6 @@
 # Reporting Guidelines
 
-If you believe someone is violating the code of conduct we ask that you report it to the Stumptown Syndicate by emailing conduct@stumptownsyndicate.org. 
+If you believe someone is violating the code of conduct we ask that you report it to [COMMUNITY_NAME] by emailing [YOUR CONTACT INFO HERE]. 
 
 **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
@@ -20,7 +20,7 @@ In your report please include:
 
 ## What happens after you file a report?
 
-You will receive an email from the Stumptown Syndicate's Code of Conduct response team acknowledging receipt as soon as possible, but within 24 hours.
+You will receive an email from the [COMMUNITY_NAME]'s Code of Conduct response team acknowledging receipt as soon as possible, but within 24 hours.
 
 The working group will immediately meet to review the incident and determine:
 
