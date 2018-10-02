@@ -1,6 +1,6 @@
 # Community Code of Conduct
 
-[COMMUNITY_NAME] is dedicated to providing a harassment and violence-free experiences for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of coommunity members in any form. Community members violating these rules may be sanctioned or expelled from an event and from the community at the discretion of community organizers.
+[COMMUNITY_NAME] is dedicated to providing harassment- and violence-free spaces for everyone, regardless of sex, gender, race, ethnicity, ability, age, orientation, relationship status, power dynamics, or any other identity. We do not tolerate harassment of coommunity members in any form. Community members violating these rules may be sanctioned or expelled from an event and from the community at the discretion of community leadership structures.
 
 ## 1. Consent
 
@@ -8,18 +8,18 @@ It is everyone’s responsibility to understand, ask for, and choose whether to 
 
 These are the consent guidelines we expect everyone in [COMMUNITY_NAME] to follow:
 
-1. No touching people or personal property without permission.
-2. Treat everyone as an equal by default. Everyone has responsibility to obtain, provide, or withhold consent regardless of sex, gender, race, ethnicity, ability, age, orientation, relationship status, sexual power dynamics, or any other identity.
-3. Negotiate the scope of your activities. We recommend making clear that all parties involved have given consent to the proposed acts.
-4. Each participant is responsible for making sure, to the best of their ability, that everyone involved has the physical, mental, and emotional capacity to give informed and voluntary consent during negotiation and during the activity itself.
-5. Anyone can withdraw consent at any time during any activity. All participants shall endeavor to be clear and unequivocal when withdrawing consent.
-6. All participants are responsible for stopping immediately any activity at the withdrawal of consent from anyone.
-7. If your consent is violated or you experience a consent injury, [reporting language]
-8. Violation of the consent policy may result in expulsion from the event and/or temporary or permanent ban from [COMMUNITY_NAME] events or activities. There are procedures in place to handle violation of this policy and those procedures will be followed by all members of this community. No one is exempt from the policy.
+  * No touching people or personal property without permission.
+  * Treat everyone as an equal by default. Everyone has responsibility to obtain, provide, or withhold consent regardless of sex, gender, race, ethnicity, ability, age, orientation, relationship status, power dynamics, or any other identity.
+  * Negotiate the scope of your activities. We recommend making clear that all parties involved have given consent to the proposed acts.
+  * Each participant is responsible for making sure, to the best of their ability, that everyone involved has the physical, mental, and emotional capacity to give informed and voluntary consent during negotiation and during the activity itself.
+  * Anyone can withdraw consent at any time during any activity. All participants shall endeavor to be clear and unequivocal when withdrawing consent.
+  * All participants are responsible for stopping immediately any activity at the withdrawal of consent from anyone.
+  * If your consent is violated or you experience a consent injury, [reporting language]
+  * Violation of the consent policy may result in expulsion from the event and/or temporary or permanent ban from [COMMUNITY_NAME] events or activities. All events have people in place to handle violation of this policy and those procedures will be followed by all members of this community. No one is exempt from the policy.
 
 ## 2. Purpose
 
-A primary goal of [COMMUNITY_NAME] is to be inclusive to the largest number of members, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of [COMMUNITY_NAME] is to be inclusive to the largest number of members, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of sex, gender, race, ethnicity, ability, age, orientation, relationship status, power dynamics, or any other identity.
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
@@ -29,6 +29,7 @@ We invite all those who participate in [COMMUNITY_NAME] to help us create safe a
 
 The following behaviors are expected and requested of all community members:
 
+  * Adhere to the consent guidelines in section 1 above
   * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
   * Exercise consideration and respect in your speech and actions.
   * Attempt collaboration before conflict.
@@ -41,8 +42,8 @@ The following behaviors are expected and requested of all community members:
 
 The following behaviors are considered unacceptable within our community:
 
-  * Any non-consensual behavior See section 1 above for more detail.
-  * Violence, threats of violence or violent language directed against another person.
+  * Any non-consensual behavior--See section 1 above for more detail.
+  * Violence, threats of violence, or violent language directed against another person.
   * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
   * Posting or threatening to post other people's personally identifying information ("doxing").
   * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
@@ -50,7 +51,7 @@ The following behaviors are considered unacceptable within our community:
   * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances. Without consent, none of these are acceptable.
   * Deliberate intimidation, stalking or following (online or in person).
   * Advocating for, or encouraging, any of the above behavior.
-  * Sustained disruption of community events, including talks and presentations.
+  * Sustained disruption of community events.
 
 ## 5. Weapons Policy
 
@@ -66,7 +67,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. [CONTACT_INFO_HERE].
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. [CONTACT_INFO_HERE]. Please consider it your responsibilty to report unacceptable behavior as close to the time of occurrence as possible. 
 
 [LINK_TO_REPORTING_GUIDELINES]
 
@@ -93,6 +94,8 @@ This code of conduct and its related procedures also applies to unacceptable beh
 The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+
+Portions derieved from the Center for Sex Positive Culture consent policy.
 
 _Revision 2.3. Posted 6 March 2017._
 
