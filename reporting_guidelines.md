@@ -57,6 +57,6 @@ The Kairos Community Organizers may choose to issue a public report of the incid
 
 Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the Kairos Community Organizers, contact the Lesley Carmichael (luxelife@gmail.com) or Steve Andersen (steve@gokubi.com) with your appeal and the Kairos Community Organizers will review the case.
 
-_Revision 1.1, DRAFT, proposed October 2018_
-_Revision 1.0, DRAFT, proposed June 2014_
+_Revision 1, DRAFT, proposed October 2018_
+
 _Reporting Guidelines derived from those of the [Django Software Foundation](https://www.djangoproject.com/conduct/reporting/)._
