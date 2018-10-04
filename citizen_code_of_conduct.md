@@ -10,7 +10,7 @@ We invite all those who participate in the Kairos Community to help us create sa
 
 ## 2. Consent
 
-It is everyone’s responsibility to understand, ask for, and choose whether to give or withhold consent. Together, we seek to create a safe and consensual space where people are accepted and able to explore themselves and their relationships with others. Because of our country's long history of discrimination and violence against marginialized groups, we ask people with privilege to actively advocate for the safety and inclusion of people will less privilege.
+It is everyone’s responsibility to understand, ask for, and choose whether to give or withhold consent. Together, we seek to create a safe and consensual space where people are accepted and able to explore themselves and their relationships with others. Because of our country's long history of discrimination and violence against marginalized groups, we ask people with privilege to actively advocate for the safety and inclusion of people will less privilege.
 
 These are the consent guidelines we expect everyone in the Kairos Community to follow:
 
@@ -46,7 +46,7 @@ The following behaviors are considered unacceptable within our community:
   * Posting or threatening to post other people's personally identifying information ("doxing").
   * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
   * Inappropriate photography or recording.
-  * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances. Without consent, none of these are acceptable.
+  * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcome sexual advances. Without consent, none of these are acceptable.
   * Deliberate intimidation, stalking or following (online or in person).
   * Advocating for, or encouraging, any of the above behavior.
   * Sustained disruption of community events.

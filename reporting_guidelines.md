@@ -1,12 +1,12 @@
 # Reporting Guidelines
 
-If you believe someone is violating the code of conduct we ask that you get yourself saf and report it immediately to the designated point of contact at the event.
+If you believe someone is violating the code of conduct we ask that you get yourself safe and report it immediately to the designated point of contact at the event.
 
 The following will happen immediately after you report a violation:
- * You and the person violated (if not you) will be taken to a safe, quite space on the premises.
+ * You and the person violated (if not you) will be taken to a safe, quiet space on the premises.
  * The perpetrator of the violation will be escorted away from the event.
  * The person violated will be asked to decide what they want to happen next: do they want to leave the event, or do they want to stay?
- * The person violated will be supported in the decisions necessary around reprting the violation to the hosts, and potentially to other authorities
+ * The person violated will be supported in the decisions necessary around reporting the violation to the hosts, and potentially to other authorities
  * The person violated will be supported in thier decisions that will ensure immediate and short-term safety.
  * When the person violated chooses to leave the event, they will be escorted to their home, with care taken so that they do not cross paths with the perpetrator.
  
