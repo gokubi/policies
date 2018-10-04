@@ -89,6 +89,6 @@ The Citizen Code of Conduct is distributed by the Kairos Community under a [Crea
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
-Portions derieved from the Center for Sex Positive Culture consent policy (https://thefspc.org/consent-policy/).
+Portions derieved from the [Center for Sex Positive Culture consent policy] (https://thefspc.org/consent-policy/).
 
 _Revision 1. Posted October 2018._
