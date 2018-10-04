@@ -59,4 +59,6 @@ Only permanent resolutions (such as bans) may be appealed. To appeal a decision 
 
 _Revision 1, DRAFT, proposed October 2018_
 
+_Portions derived from those of the [Stumptown Syndicate](https://github.com/stumpsyn/policies)._
+
 _Reporting Guidelines derived from those of the [Django Software Foundation](https://www.djangoproject.com/conduct/reporting/)._
