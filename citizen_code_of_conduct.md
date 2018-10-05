@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-Kairos is dedicated to providing harassment- and violence-free gathering spaces for everyone, regardless of sex, gender, race, ethnicity, ability, age, orientation, relationship status, power dynamics, or any other identity. Harassment in any form is unacceptable.
+Kairos is dedicated to being a harassment- and violence-free gathering space for every guest, regardless of sex, gender, race, ethnicity, ability, age, orientation, relationship status, power dynamics, or any other identity. Harassment in any form is unacceptable.
 
 This code of conduct outlines our expectations for all those who participate at Kairos events, as well as the consequences for unacceptable behavior.
 
