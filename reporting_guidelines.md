@@ -15,7 +15,7 @@ The following will happen immediately after you report a violation:
  
 If you believe anyone is in physical danger, please notify appropriate emergency services first. If you are unsure what service or agency is appropriate to contact, ask the Kairos Community Organizers or include this in your report and we will attempt to notify them.
 
-## 2. Reporting Via Email
+## 2. Reporting via Email
 
 If you cannot report a violation at the time and at the event at which it occurred, please report via email to Lesley Carmichael (luxelife@gmail.com) or Steve Andersen (steve@gokubi.com). In your report please include:
 
