@@ -82,7 +82,7 @@ Kairos Organizers are Lesley Carmichael (<luxelife@gmail.com>) and Steve Anderse
 
 ## 11. License and attribution
 
-The Citizen Code of Conduct is distributed by Kairos under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
+The Code of Conduct is distributed by Kairos under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
 Portions of text drerived from the [Stumptown Syndicate Code of Conduct](https://github.com/stumpsyn/policies)
 
