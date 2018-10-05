@@ -1,4 +1,7 @@
 # Reporting Guidelines
+These are guidelines for reporting violations of Kairos Community Code of Conduct.
+
+## 1. Reporting In-Person at an Event
 
 If you believe someone is violating the code of conduct we ask that you get yourself safe and report it immediately to the designated point of contact at the event.
 
@@ -10,11 +13,11 @@ The following will happen immediately after you report a violation:
  * The person violated will be supported in thier decisions that will ensure immediate and short-term safety.
  * When the person violated chooses to leave the event, they will be escorted to their home, with care taken so that they do not cross paths with the perpetrator.
  
-**All reports will be kept confidential.** In some cases the Kairos Community Organizers may determine that a limited public statement will need to be made. If that's the case, the identities of all persons violated and reporters will remain confidential unless those individuals instruct us otherwise.
-
 If you believe anyone is in physical danger, please notify appropriate emergency services first. If you are unsure what service or agency is appropriate to contact, ask the Kairos Community Organizers or include this in your report and we will attempt to notify them.
 
-In your report please include:
+## 2. Via Email
+
+If you cannot report a violation at the time and at the event at which it occurred, please report via email to Lesley Carmichael (luxelife@gmail.com) or Steve Andersen (steve@gokubi.com). In your report please include:
 
 * Your contact info for follow-up contact.
 * Names (legal, nicknames, or pseudonyms) of any individuals involved.
@@ -26,7 +29,11 @@ In your report please include:
 * If you believe this incident is ongoing.
 * Any other information you believe we should have.
 
-## What happens after you file a report?
+If you believe anyone is in physical danger, please notify appropriate emergency services first. If you are unsure what service or agency is appropriate to contact, ask the Kairos Community Organizers or include this in your report and we will attempt to notify them.
+
+## 3. What happens after you file a report?
+
+**All reports will be kept confidential.** In some cases the Kairos Community Organizers may determine that a limited public statement will need to be made. If that's the case, the identities of all persons violated and reporters will remain confidential unless those individuals instruct us otherwise.
 
 You will receive an email from the Kairos Community Organizaers acknowledging receipt as soon as possible, but within 24 hour.
 
@@ -53,7 +60,7 @@ Once we've determined our final action, we'll contact the original reporter to l
 
 The Kairos Community Organizers may choose to issue a public report of the incident or take additional actions.
 
-## Appealing the response
+## 4. Appealing the response
 
 Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the Kairos Community Organizers, contact the Lesley Carmichael (luxelife@gmail.com) or Steve Andersen (steve@gokubi.com) with your appeal and the Kairos Community Organizers will review the case.
 
