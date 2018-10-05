@@ -66,7 +66,7 @@ If a Kairos guest engages in unacceptable behavior, they will be required to lea
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a Kairos Organizer as soon as possible. At a Kairos event, please get yourself safe and follow the [reporting guidelines](https://gokubi.github.io/policies/reporting_guidelines.html). Outside of an in-person event, please contact your Kairos hosts listed in section 10.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify one of your Kairos hosts as soon as possible. At a Kairos event, please get yourself safe and follow the [reporting guidelines](https://gokubi.github.io/policies/reporting_guidelines.html). Outside of an in-person event, please contact your Kairos hosts listed in section 10.
 
 ## 8. Addressing Grievances
 
