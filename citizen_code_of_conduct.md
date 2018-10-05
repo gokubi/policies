@@ -23,7 +23,7 @@ These are the consent guidelines we expect everyone at Kairos events to follow:
   * All participants are responsible for stopping immediately any activity at the withdrawal of consent from anyone.
   * If your consent is violated, please get yourself safe and follow the [reporting guidelines](https://gokubi.github.io/policies/reporting_guidelines.html)
   
-  Our top priority is a safe space. Violation of the consent policy will lead to steps your Kairos hosts deem necesary to maintain saftey, including removing the perpetrator. Only after safety is ensured, other activties focused on personal and group healing and growth may take place. All events have people in place to handle violation of this policy and those procedures will be followed by all Kairos guests. No one is exempt from the policy.
+  Our top priority is a safe space. Violation of the consent policy will lead to steps your Kairos hosts deem necesary to maintain saftey, including removing the perpetrator. Only after safety is ensured, other activities focused on personal and group healing and growth may take place. All events have people in place to handle violation of this policy and those procedures will be followed by all Kairos guests. No one is exempt from the policy.
 
 ## 3. Expected Behavior
 
@@ -84,10 +84,10 @@ Your Kairos hosts are Lesley Carmichael (<luxelife@gmail.com>) and Steve Anderse
 
 The Code of Conduct is distributed by Kairos under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
-Portions of text drerived from the [Stumptown Syndicate Code of Conduct](https://github.com/stumpsyn/policies)
+Portions of text derived from the [Stumptown Syndicate Code of Conduct](https://github.com/stumpsyn/policies)
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
-Portions derieved from the [Center for Sex Positive Culture consent policy](https://thefspc.org/consent-policy/).
+Portions derived from the [Center for Sex Positive Culture consent policy](https://thefspc.org/consent-policy/).
 
 _Revision 1. Posted October 2018._

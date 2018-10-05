@@ -8,8 +8,8 @@ If you believe someone is violating the code of conduct we ask that you get your
 The following will happen immediately after you report a violation:
  * You and the person violated (if not you) will be taken to a safe, quiet space on the premises.
  * The perpetrator of the violation will be escorted away from the event.
- * Details will be gathered to understand the circustances of the violation.
- * The person violated will be supported in thier decisions that will ensure immediate and short-term safety.
+ * Details will be gathered to understand the circumstances of the violation.
+ * The person violated will be supported in their decisions that will ensure immediate and short-term safety.
  * When the person violated chooses to leave the event, they will be offered an escort to their chosen local destination.
  
 If you believe anyone is in physical danger, please notify appropriate emergency services first.
