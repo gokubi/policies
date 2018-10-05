@@ -20,7 +20,7 @@ These are the consent guidelines we expect everyone in the Kairos Community to f
   * Each participant is responsible for making sure, to the best of their ability, that everyone involved has the physical, mental, and emotional capacity to give informed and voluntary consent during negotiation and during the activity itself.
   * Anyone can withdraw consent at any time during any activity. All participants shall endeavor to be clear and unequivocal when withdrawing consent.
   * All participants are responsible for stopping immediately any activity at the withdrawal of consent from anyone.
-  * If your consent is violated or you experience a consent injury, please get yourself safe and follow the reporting guidelines here: https://github.com/gokubi/policies/blob/master/reporting_guidelines.md
+  * If your consent is violated or you experience a consent injury, please get yourself safe and follow the [reporting guidelines](https://gokubi.github.io/policies/reporting_guidelines.html)
   * Violation of the consent policy may result in expulsion from the event and/or temporary or permanent ban from Kairos Community events or activities. All events have people in place to handle violation of this policy and those procedures will be followed by all members of this community. No one is exempt from the policy.
 
 ## 3. Expected Behavior
