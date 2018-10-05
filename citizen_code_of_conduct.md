@@ -14,7 +14,7 @@ It is everyone’s responsibility to understand, ask for, and choose whether to 
 
 These are the consent guidelines we expect everyone in Kairos to follow:
 
-  * Practice enthusiastic consent: only an enthusiastic Yes is a Yes, everything else is a no.
+  * Practice enthusiastic consent: only an enthusiastic Yes is a Yes, everything else is a No.
   * No touching people or their personal property without consent.
   * Treat everyone as an equal by default. Everyone has responsibility to obtain, provide, or withhold consent regardless of sex, gender, race, ethnicity, ability, age, orientation, relationship status, power dynamics, or any other identity.
   * Negotiate the scope of your activities. We recommend making clear that all parties involved have given consent to any proposed interactions.
@@ -70,7 +70,7 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 
 ## 8. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Kairos Organizers with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Kairos Organizers with a concise description of your grievance.
 
 ## 9. Scope
 
