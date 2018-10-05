@@ -7,3 +7,5 @@ Kairos (our home) is dedicated to providing harassment- and violence-free spaces
 * [Reporting Guidelines](reporting_guidelines.md): Guidelines for reporting violations of the Code of Conduct.
 
 Questions or comments? Get in touch with Lesley Carmichael (<luxelife@gmail.com>) or Steve Andersen (<steve@gokubi.com>).
+
+If you want a code of conduct for your home or community, and why the heck wouldn't you, please make a copy and make it your own.
