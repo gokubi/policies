@@ -17,7 +17,7 @@ If you believe anyone is in physical danger, please notify appropriate emergency
 
 ## 2. Reporting via Email
 
-If you cannot report a violation at the time and at the event at which it occurred, please report via email to Lesley Carmichael <luxelife@gmail.com> or Steve Andersen <steve@gokubi.com>. In your report please include:
+If you cannot report a violation at the time and at the event at which it occurred, please report via email to Lesley Carmichael (<luxelife@gmail.com>) or Steve Andersen (<steve@gokubi.com>). In your report please include:
 
 * Your contact info for follow-up contact.
 * Names (legal, nicknames, or pseudonyms) of any individuals involved.

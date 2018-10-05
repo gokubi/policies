@@ -81,7 +81,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
-The Kairos Community Organizers are Lesley Carmichael (luxelife@gmail.com) and Steve Andersen (steve@gokubi.com).
+The Kairos Community Organizers are Lesley Carmichael (<luxelife@gmail.com>) and Steve Andersen (<steve@gokubi.com>).
 
 ## 11. License and attribution
 
