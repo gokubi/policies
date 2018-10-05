@@ -62,11 +62,11 @@ Unacceptable behavior from any Kairos guest will not be tolerated.
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
-If a Kairos guest engages in unacceptable behavior, your Kairos hosts may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from future Kairos events without warning (and without refund in the case of a paid event).
+If a Kairos guest engages in unacceptable behavior, they will be required to leave and may not be welcome again.
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a Kairos Organizer as soon as possible. At a Kairos event, please get yourself safe and follow the [reporting guidelines](https://gokubi.github.io/policies/reporting_guidelines.html). Outside of an in-person event, please contact the your Kairos hosts listed in section 10. Please consider it your responsibilty to report unacceptable behavior as close to the time of occurrence as possible. 
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a Kairos Organizer as soon as possible. At a Kairos event, please get yourself safe and follow the [reporting guidelines](https://gokubi.github.io/policies/reporting_guidelines.html). Outside of an in-person event, please contact the your Kairos hosts listed in section 10.
 
 ## 8. Addressing Grievances
 
@@ -78,7 +78,7 @@ We expect all Kairos guests to abide by this Code of Conduct when attending Kair
 
 ## 10. Contact info
 
-your Kairos hosts are Lesley Carmichael (<luxelife@gmail.com>) and Steve Andersen (<steve@gokubi.com>).
+Your Kairos hosts are Lesley Carmichael (<luxelife@gmail.com>) and Steve Andersen (<steve@gokubi.com>) unless otherwise specified for a particular event.
 
 ## 11. License and attribution
 
