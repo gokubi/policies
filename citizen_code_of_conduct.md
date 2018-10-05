@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-The Kairos Community is dedicated to providing harassment- and violence-free spaces for everyone, regardless of sex, gender, race, ethnicity, ability, age, orientation, relationship status, power dynamics, or any other identity. We do not tolerate harassment of community members in any form. Community members violating these rules may be sanctioned or expelled from an event and from the community at the discretion of community leadership structures.
+The Kairos Community is dedicated to providing harassment- and violence-free spaces for everyone, regardless of sex, gender, race, ethnicity, ability, age, orientation, relationship status, power dynamics, or any other identity. We do not tolerate harassment of community members in any form. Community members violating these rules may be sanctioned or expelled from an event and from the community at the discretion of the Karios Community Organizers.
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
@@ -16,12 +16,12 @@ These are the consent guidelines we expect everyone in the Kairos Community to f
 
   * No touching people or personal property without permission.
   * Treat everyone as an equal by default. Everyone has responsibility to obtain, provide, or withhold consent regardless of sex, gender, race, ethnicity, ability, age, orientation, relationship status, power dynamics, or any other identity.
-  * Negotiate the scope of your activities. We recommend making clear that all parties involved have given consent to the proposed acts.
+  * Negotiate the scope of your activities. We recommend making clear that all parties involved have given consent to any proposed acts.
   * Each participant is responsible for making sure, to the best of their ability, that everyone involved has the physical, mental, and emotional capacity to give informed and voluntary consent during negotiation and during the activity itself.
   * Anyone can withdraw consent at any time during any activity. All participants shall endeavor to be clear and unequivocal when withdrawing consent.
   * All participants are responsible for stopping immediately any activity at the withdrawal of consent from anyone.
   * If your consent is violated or you experience a consent injury, please get yourself safe and follow the reporting guidelines here: https://github.com/gokubi/policies/blob/master/reporting_guidelines.md
-  * Violation of the consent policy may result in expulsion from the event and/or temporary or permanent ban from Kairos events or activities. All events have people in place to handle violation of this policy and those procedures will be followed by all members of this community. No one is exempt from the policy.
+  * Violation of the consent policy may result in expulsion from the event and/or temporary or permanent ban from Kairos Community events or activities. All events have people in place to handle violation of this policy and those procedures will be followed by all members of this community. No one is exempt from the policy.
 
 ## 3. Expected Behavior
 
@@ -34,13 +34,13 @@ The following behaviors are expected and requested of all community members:
   * Refrain from demeaning, discriminatory, or harassing behavior and speech.
   * Be mindful of your surroundings and of your fellow participants.
   * Be an advocate for the health and safety of your fellow participants.
-  * Speak up and act if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential. [Alert community]
+  * Speak up and act if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 
 ## 4. Unacceptable Behavior
 
 The following behaviors are considered unacceptable within our community:
 
-  * Any non-consensual behavior--See section 1 above for more detail.
+  * Any non-consensual behavior--See section 2 above for more detail.
   * Violence, threats of violence, or violent language directed against another person.
   * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
   * Posting or threatening to post other people's personally identifying information ("doxing").
