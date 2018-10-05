@@ -1,9 +1,9 @@
-Policies
+Kairos Community Policies 
 ========
 
-Draft policies for Kairos Community events. This consists of a Code of Conduct, and a set of Reporting Guidelines. 
+The Kairos Community is dedicated to providing harassment- and violence-free spaces for everyone, regardless of sex, gender, race, ethnicity, ability, age, orientation, relationship status, power dynamics, or any other identity. These policies are created to outline expected and unacceptable behavior, as well as processes intended to support the creation of safe spaces and the protection of community members in those spaces.
 
-* [Citizen Code of Conduct](citizen_code_of_conduct.md): Templated Code of Conduct for use groups, projects, and events.
-* [Reporting Guidelines](reporting_guidelines.md): Reporting guidelines for the Stumptown Syndicate Code of Conduct.
+* [Citizen Code of Conduct](citizen_code_of_conduct.md): A Code of Conduct for events.
+* [Reporting Guidelines](reporting_guidelines.md): Reporting guidelines for the Kairos Community Code of Conduct.
 
 Questions or comments? Get in touch with me at steve@gokubi.com.
