@@ -10,7 +10,7 @@ We invite all who participate to help us create safe and positive experiences fo
 
 ## 2. Consent
 
-It is everyone’s responsibility to understand, ask for, and choose whether to give or withhold consent. Together, we seek to create a safe and consensual space where people are accepted and able to explore themselves and their relationships with others. This applies to gatherings of all kind: group dinners, dance parties, conversations like book clubs, relaxing in the hot tub, and all other gatherings. Because of our country's long history of discrimination and violence against marginalized groups, we ask people with privilege to actively advocate for the safety and inclusion of people with less privilege.
+It is everyone’s responsibility to understand, ask for, and choose whether to give or withhold consent. Together, we seek to create a safe and consensual space where people are accepted and able to explore themselves and their relationships with others. This applies to gatherings of all kinds: group dinners, dance parties, conversations like book clubs, relaxing in the hot tub, and all other gatherings. Because of our country's long history of discrimination and violence against marginalized groups, we ask people with privilege to actively advocate for the safety and inclusion of people with less privilege.
 
 These are the consent guidelines we expect everyone at Kairos events to follow:
 
@@ -18,9 +18,9 @@ These are the consent guidelines we expect everyone at Kairos events to follow:
   * No touching people or their personal property without consent.
   * Treat everyone as an equal by default. Everyone has responsibility to obtain, provide, or withhold consent regardless of sex, gender, race, ethnicity, ability, age, orientation, relationship status, power dynamics, or any other identity.
   * Negotiate the scope of your activities. We recommend making clear that all parties involved have given consent to any proposed interactions.
-  * Each participant is responsible for making sure, to the best of their ability, that everyone involved has the physical, mental, and emotional capacity to give informed and voluntary consent during negotiation and during the activity itself.
-  * Anyone can withdraw consent at any time during any activity. All participants shall endeavor to be clear and unequivocal when withdrawing consent.
-  * All participants are responsible for stopping immediately any activity at the withdrawal of consent from anyone.
+  * Each participant is responsible for making sure, to the best of their ability, that everyone involved has the physical, mental, and emotional capacity to give informed and voluntary consent in any interaction.
+  * Anyone can withdraw consent at any time during any interaction. All participants shall endeavor to be clear and unequivocal when withdrawing consent.
+  * All participants are responsible for stopping immediately any interaction at the withdrawal of consent from anyone.
   * If your consent is violated, please get yourself safe and follow the [reporting guidelines](https://gokubi.github.io/policies/reporting_guidelines.html)
   
   Our top priority is a safe space. Violation of the consent policy will lead to steps your Kairos hosts deem necesary to maintain saftey, including removing the perpetrator. Only after safety is ensured, other activities focused on personal and group healing and growth may take place. All events have people in place to handle violation of this policy and those procedures will be followed by all Kairos guests. No one is exempt from the policy.
@@ -88,6 +88,6 @@ Portions of text derived from the [Stumptown Syndicate Code of Conduct](https://
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
-Portions derived from the [Center for Sex Positive Culture consent policy](https://thefspc.org/consent-policy/).
+Portions of text derived from the [Center for Sex Positive Culture consent policy](https://thefspc.org/consent-policy/).
 
 _Revision 1. Posted October 2018._

@@ -1,12 +1,12 @@
 # Reporting Guidelines
 These are guidelines for reporting violations of the [Kairos Code of Conduct](https://gokubi.github.io/policies/citizen_code_of_conduct.html).
 
-## 1. Reporting In-Person at an Event
+## 1. Reporting in-person at an event
 
 If you believe someone is violating the code of conduct we ask that you get yourself safe and report it immediately to the designated point of contact at the event.
 
 The following will happen immediately after you report a violation:
- * You and the person violated (if not you) will be taken to a safe, quiet space on the premises.
+ * You and the person violated (if not you) will be escorted to a safe, quiet space on the premises.
  * The perpetrator of the violation will be escorted away from the event.
  * Details will be gathered to understand the circumstances of the violation.
  * The person violated will be supported in their decisions that will ensure immediate and short-term safety.
