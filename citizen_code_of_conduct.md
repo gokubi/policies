@@ -56,7 +56,7 @@ The following behaviors are considered unacceptable at Kairos events:
 
 No weapons will be allowed at Kairos events. Weapons include but are not limited to guns (even if not loaded), explosives, and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon.
 
-Guests seeking an exception to the weapons policy for self-defense reasons (e.g. carrying pepper spray in a purse) must inquire with [HOUSE_NAME] Hosts before the event or upon arrival. Granting of exceptions is at the discretion of [HOUSE_NAME] Hosts.
+Guests seeking an exception to the weapons policy for self-defense reasons (e.g. carrying pepper spray in a purse) must inquire with Kairos Hosts before the event or upon arrival. Granting of exceptions is at the discretion of Kairos Hosts.
 
 Kairos guests are further expected to comply with all state and local laws on this matter.
 
